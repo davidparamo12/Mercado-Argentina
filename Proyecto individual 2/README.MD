@@ -166,13 +166,20 @@ PRIMER KPI-
 Nuestro primer KPI surge de una coyuntura que refleja CABA- es la provincia numero 1 en accesos (y por 4.7 desviaciones estandar usando el Z-score) pero a la vez con la menor velocidad en Mbps de toda Argentina (es el numero 1 en accesos y el ultimo en velocidad). Además el mercado no ha hecho gran cosa durante la última decada para mejorar la velocidad lo cual puede tener buena acogida en el mercado de CABA al encontrar un producto que mejore la velocidad. La razón se debe a que la tecnología predominante en CABA es cablemodem por un gran margen (78.2%) mientras que Fibra Óptica es (15.7%). Para dar un contexto, el maximo de cablemodem para transmision de datos está entre 300-500   Mbps y su estabilidad no es tan buena porque depende del numero de usuarios (se puede caer en horas pico y es una posible razón de la baja velocidad en CABA). Por lo tanto, para mejorar la velocidad y crear un producto nuevo que entre en una fase de crecimiento es crear un producto de Fibra Optica- su transmision puede llegar a 1Gps y estabilidad es mucho mas alta que Cable Modem y sacudir el mercado dado que la velocidad es muy mala en CABA. ¿Cómo podemos vender Fibra Óptica en CABA cuando los accesos por hogar es mas de 1? La idea es potencializar los beneficios de mejorar la velocidad a traves de Fibra Óptica que de tener más accesos a internet como ocurre actualmente. Para esta campaña sólo se requiere explotar los beneficios de tener un internet de alta velocidad con respecto a cable modeme. La idea es duplicar la transicion actual de Fibra Optica en CABA para el proximo año.
 
 
+![alt text](<Captura de pantalla 2025-04-25 194257-1.png>)
+
+![alt text](<Captura de pantalla 2025-04-25 194845.png>)
+
 SEGUNDO KPI-
 
 Luego de crear un analisis por Localidades, concluimos como segmento localidades que tuvieran una población mayor al promedio pero donde no hay acceso a Fibra Optica, es decir para introducir el producto. Esto genera beneficios como ganar mercado sin competir y fidelidad- el CVL global de la compañia aumentará inevitablemente dado que son nuevos clientes al que la competencia no le ha llegado. Además esta estrategia es una manera de adelantarse al mercado- evitar el problema de saturacion de cable modem. Para estas localidades, se usará de un producto mixto para el hogar: Internet de alta velocidad + TV de alta calidad para ver Futbol, dado que con esta tecnología se puede pasar los dos tipos de productos con el mismo cable. Esto se debe a que en algunas provincias la velocidad es buena por lo que no se daría ningún valor agregado al consumidor. No obstante, una suscribcion a TV puede dar el beneficio adecuado para pasarse a Fibra Optica. Nuestro KPI es tener el crecimiento maximo en un año de cable modem de la provincia ... y obtener este crecimiento a través de Fibra Óptica.
 
-
+![alt text](<Captura de pantalla 2025-04-25 194921.png>)
+![alt text](<Captura de pantalla 2025-04-25 194933.png>)
 TERCER KPI-
 
 Nuestro tercer KPI surge de la coyuntura que el mercado de hogares esta en un ciclo más maduro que el mercado de portabilidad (los niveles de accesos por habitante vs hogar tienen una spread de ... % en promedio). Por esta razón proponemos crear un producto de alta portabilidad via celulares con planes pospago. La tecnología red movil 4g/LTE o 5G que siga la tendencia de alta portabilidad. De igual manera consideramos que es mejor ser pionero para obtener un mercado grande sin tanta competencia
 
+![alt text](<Captura de pantalla 2025-04-25 194947-1.png>)
 
+![alt text](<Captura de pantalla 2025-04-25 195055.png>)
