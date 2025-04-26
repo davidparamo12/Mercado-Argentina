@@ -6,7 +6,7 @@ INTRODUCCIÓN
 
 El siguiente trabajo utiliza de hojas de Excel que contienen todo tipo de informacion sobre el mercado de Internet en Argentina y productos complementarios o substitutos. Las hojas tiene gran alcance porque no solo se limita a datos evidentes como accesos, poblacion y tipo de tecnologias sino que también tienen informacion como TV, Telefonia movil desagregada por Provincias que nos ayudará a crear una estrategia focalizada para dos segmentos de la poblacion en el corto plazo.
 
-La fuente de la información es....
+La fuente de la información es ENACOM- Ente Nacional de Comunicaciones
 
 
 
@@ -48,7 +48,7 @@ Sobre la evolución de los Accesos y la Velocidad en PROMEDIO de las provincias 
 Sobre la composición tecnológica en la SUMA total:
 ** Para este análisis, es importante saber que Fibra Óptica es la mejor tecnología para internet dado que permite altas velocidades, estabilidad, mejor calidad de transmision y mejor desempeño con multiples dispositivos. 
 
-    1. Buenos Aires tiene mas accesos que cualquier otra provincia. 
+    1. Buenos Aires tiene mas accesos que cualquier otra provincia en Fibra Optica. 
     2. Cable Modem es la tecnologia dominante del mercado argentino seguida por Fibra Óptica. Solo en pequeñas provincias no se sigue este patrón.
     3. En CABA hay una disparidad considerable entre el uso de Cable Modem (78.2%) y Fibra Optica (15.7%)- acá hay una oportunidad de crecimiento del negocio.
     4. Tucuman tiene un comportamiento diferente- Fibra Óptica tiene 80.1% de los accesos y Cable Modem solo el 7.8%. Esta provincia sirve como referente para saber que se realizó y poder replicarlo en más provincias. 
@@ -74,7 +74,7 @@ SACAMOS NUESTRO PRIMER KPI- El crecimiento de Fibra Optica en CABA. La idea es p
 Sobre la evolucion de la banda ancha y dial up en PROMEDIO de Argentina y observando su evolucion entre 2014-2024 observamos que:
     1. CABA tiene un comportamiento plano a lo largo del tiempo. Su crecimiento a lo largo de 10 años ha sido casi nulo.
     2. Buenos Aires es la provincia con mayor crecimiento de la Banda Ancha- va por buen camino.
-    3. Todas las pronvincias han mejorado en su servicio de internet dado que en todas ha caido el uso de la tecnologia "Dial Up" que es obsolota para la actualidad. La tendencia es que va a llegar a cero.
+    3. Todas las provincias han mejorado en su servicio de internet dado que en todas ha caido el uso de la tecnologia "Dial Up" que es obsolota para la actualidad. La tendencia es que va a llegar a cero.
 
 Sobre la evolucion en PROMEDIO de accesos por cada 100 habitantes entre 2014-2024, observamos que:
     1. Es muy bajo el crecimiento en la penetracion de los habitantes a lo largo de la decada. Se ha mantenido con una pendiente positiva pero pequeña en la gran mayoría de provincias. 
@@ -146,26 +146,33 @@ Sobre la evolucion de la penetracion movil entre 2013-2024, se observa que:
 Sacamos nuestro tercer KPI, el crecimiento de la telefonía móvil en la categoria Pospago. Ya que el mercado esta saturado de telefonía movil, la idea es crear un producto diferenciado y de mejor calidad.
 
 
+*****
+CONCLUSIONES:
+
+Primer KPI es CABA a fibra optica enfatizando calidad con velocidad- está saturado. Hogares tienen mas de 1 acceso por lo que estan dispuestos a pasarse a 1 acceso po rhogar de calidad. 
+
+Segundo KPI es enfatizar las provincias de transicion a Fibra Optica con poblaciones mayores al promedio de pobalcion- enfatizado al mercado 
+
+Tercer KPI crear un producto de internet telefonia movil pospago.
 
 
+Argentina tiene disparidad en su distribución demográfica que tiene un efecto directo en el ciclo de vida del producto. Es muy diferente el ciclo de vida para el mismo producto de internet en CABA que en Tucumán o Entre Rios. Por lo tanto, la segmentación va a ser clave para crear un producto rentable y eficaz, dado que no es igual para todas las provincias. 
+
+En nuestro analisis partimos que el producto de internet en toda Argentina pasó una fase introductoria (en todas las localidades hay banda ancha 3g y 4g- a excepcion de 1 localidad). Por otra parte, descartamos la telefonía fija o servicios postales porque están en una fase de declive como lo muestran los datos mientras que el consumo de datos tienen un crecimiento exponencial- Se paso en promedio de 3.85 Mbps en 2014 a 139.2 Mbps en 2024. Por esta razón proponemos a la empresa de telecomunicaciones 2 KPI´s enfocados en mejorar la velocidad (calidad) del producto segmentado y 1 KPI para aumentar la portabilidad de internet usando de planes pospago.
 
 
+PRIMER KPI-
+
+Nuestro primer KPI surge de una coyuntura que refleja CABA- es la provincia numero 1 en accesos (y por 4.7 desviaciones estandar usando el Z-score) pero a la vez con la menor velocidad en Mbps de toda Argentina (es el numero 1 en accesos y el ultimo en velocidad). Además el mercado no ha hecho gran cosa durante la última decada para mejorar la velocidad lo cual puede tener buena acogida en el mercado de CABA al encontrar un producto que mejore la velocidad. La razón se debe a que la tecnología predominante en CABA es cablemodem por un gran margen (78.2%) mientras que Fibra Óptica es (15.7%). Para dar un contexto, el maximo de cablemodem para transmision de datos está entre 300-500   Mbps y su estabilidad no es tan buena porque depende del numero de usuarios (se puede caer en horas pico y es una posible razón de la baja velocidad en CABA). Por lo tanto, para mejorar la velocidad y crear un producto nuevo que entre en una fase de crecimiento es crear un producto de Fibra Optica- su transmision puede llegar a 1Gps y estabilidad es mucho mas alta que Cable Modem y sacudir el mercado dado que la velocidad es muy mala en CABA. ¿Cómo podemos vender Fibra Óptica en CABA cuando los accesos por hogar es mas de 1? La idea es potencializar los beneficios de mejorar la velocidad a traves de Fibra Óptica que de tener más accesos a internet como ocurre actualmente. Para esta campaña sólo se requiere explotar los beneficios de tener un internet de alta velocidad con respecto a cable modeme. La idea es duplicar la transicion actual de Fibra Optica en CABA para el proximo año.
 
 
+SEGUNDO KPI-
+
+Luego de crear un analisis por Localidades, concluimos como segmento localidades que tuvieran una población mayor al promedio pero donde no hay acceso a Fibra Optica, es decir para introducir el producto. Esto genera beneficios como ganar mercado sin competir y fidelidad- el CVL global de la compañia aumentará inevitablemente dado que son nuevos clientes al que la competencia no le ha llegado. Además esta estrategia es una manera de adelantarse al mercado- evitar el problema de saturacion de cable modem. Para estas localidades, se usará de un producto mixto para el hogar: Internet de alta velocidad + TV de alta calidad para ver Futbol, dado que con esta tecnología se puede pasar los dos tipos de productos con el mismo cable. Esto se debe a que en algunas provincias la velocidad es buena por lo que no se daría ningún valor agregado al consumidor. No obstante, una suscribcion a TV puede dar el beneficio adecuado para pasarse a Fibra Optica. Nuestro KPI es tener el crecimiento maximo en un año de cable modem de la provincia ... y obtener este crecimiento a través de Fibra Óptica.
 
 
+TERCER KPI-
+
+Nuestro tercer KPI surge de la coyuntura que el mercado de hogares esta en un ciclo más maduro que el mercado de portabilidad (los niveles de accesos por habitante vs hogar tienen una spread de ... % en promedio). Por esta razón proponemos crear un producto de alta portabilidad via celulares con planes pospago. La tecnología red movil 4g/LTE o 5G que siga la tendencia de alta portabilidad. De igual manera consideramos que es mejor ser pionero para obtener un mercado grande sin tanta competencia
 
 
-
-
-    c,cn
-
-
-
-
-
-
-
-
-
-En este contexto, una empresa prestadora de servicios de telecomunicaciones le encarga a usted la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Considere que la principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
