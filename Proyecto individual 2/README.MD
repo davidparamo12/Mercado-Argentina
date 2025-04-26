@@ -167,23 +167,24 @@ Nuestro primer KPI surge de una coyuntura que refleja CABA- es la provincia nume
 
 ![Alt text](https://github.com/davidparamo12/Mercado-Argentina/blob/main/FOTOS/Captura%20de%20pantalla%202025-04-25%20194257-1.png)
 
-![alt text](<Captura de pantalla 2025-04-25 194257-1.png>)
+![Alt text](https://github.com/davidparamo12/Mercado-Argentina/blob/main/FOTOS/Captura%20de%20pantalla%202025-04-25%20194845.png)
 
-![alt text](<Captura de pantalla 2025-04-25 194845.png>)
+
 
 
 SEGUNDO KPI-
 
 Luego de crear un analisis por Localidades, concluimos como segmento localidades que tuvieran una población mayor al promedio pero donde no hay acceso a Fibra Optica, es decir para introducir el producto. Esto genera beneficios como ganar mercado sin competir y fidelidad- el CVL global de la compañia aumentará inevitablemente dado que son nuevos clientes al que la competencia no le ha llegado. Además esta estrategia es una manera de adelantarse al mercado- evitar el problema de saturacion de cable modem. Para estas localidades, se usará de un producto mixto para el hogar: Internet de alta velocidad + TV de alta calidad para ver Futbol, dado que con esta tecnología se puede pasar los dos tipos de productos con el mismo cable. Esto se debe a que en algunas provincias la velocidad es buena por lo que no se daría ningún valor agregado al consumidor. No obstante, una suscribcion a TV puede dar el beneficio adecuado para pasarse a Fibra Optica. Nuestro KPI es tener el crecimiento maximo en un año de cable modem de la provincia ... y obtener este crecimiento a través de Fibra Óptica.
 
-![alt text](<Captura de pantalla 2025-04-25 194921.png>)
+![Alt text](https://github.com/davidparamo12/Mercado-Argentina/blob/main/FOTOS/Captura%20de%20pantalla%202025-04-25%20194921.png)
 
-![alt text](<Captura de pantalla 2025-04-25 194933.png>)
+![Alt text](https://github.com/davidparamo12/Mercado-Argentina/blob/main/FOTOS/Captura%20de%20pantalla%202025-04-25%20194933.png)
+
 
 TERCER KPI-
 
 Nuestro tercer KPI surge de la coyuntura que el mercado de hogares esta en un ciclo más maduro que el mercado de portabilidad (los niveles de accesos por habitante vs hogar tienen una spread de ... % en promedio). Por esta razón proponemos crear un producto de alta portabilidad via celulares con planes pospago. La tecnología red movil 4g/LTE o 5G que siga la tendencia de alta portabilidad. De igual manera consideramos que es mejor ser pionero para obtener un mercado grande sin tanta competencia
 
-![alt text](<Captura de pantalla 2025-04-25 194947.png>)
+![Alt text](https://github.com/davidparamo12/Mercado-Argentina/blob/main/FOTOS/Captura%20de%20pantalla%202025-04-25%20194947.png)
 
-![alt text](<Captura de pantalla 2025-04-25 195055.png>)
+![Alt text](https://github.com/davidparamo12/Mercado-Argentina/blob/main/FOTOS/Captura%20de%20pantalla%202025-04-25%20195055.png)
